@@ -4,3 +4,4 @@
 ### Responsive web design isn't a separate technology — it is an approach. It is a term used to describe a set of best practices used to create a layout that can respond to any device being used to view the content.
 ### Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones).
 
+![Responsive  Web Design](https://github.com/IC-XC/Responsive-Web-Design-freeCodeCamp/assets/86513555/73181fa7-a8b4-420e-be56-23f08d11ef57)
