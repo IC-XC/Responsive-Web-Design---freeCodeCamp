@@ -1,7 +1,13 @@
 # 📖 Responsive-Web-Design-freeCodeCamp
+# 👣 Projects
+These projects are made for the freeCodeCamp Responsive Web Design Certification. The objective was to use HTML and plain CSS in order to build five responsive webpages that fulfill freeCodeCamp's user stories. You can find further information on the projects in the links below.
 
-### Responsive web design, or RWD, is a design approach that addresses the range of devices and device sizes, enabling automatic adaption to the screen, whether the content is viewed on a tablet, phone, television, or watch.
-### Responsive web design isn't a separate technology — it is an approach. It is a term used to describe a set of best practices used to create a layout that can respond to any device being used to view the content.
-### Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones).
+Tribute Page: Page | Requirements
+Survey Form: Page | Requirements
+Product Landing Page: Page | Requirements
+Technical Documentation Page: Page | Requirements
+Personal Portfolio: Page | Requirements
+
+
 
 ![Responsive  Web Design](https://github.com/IC-XC/Responsive-Web-Design-freeCodeCamp/assets/86513555/73181fa7-a8b4-420e-be56-23f08d11ef57)
